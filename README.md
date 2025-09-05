@@ -23,7 +23,7 @@ It performs both **basic** and **advanced mathematical operations**.
 ---
 
 ## 📸 Demo
-![Calculator Screenshot](screenshot.png.png)  
+![Calculator Screenshot](screenshot.png)  
 
 ---
 
